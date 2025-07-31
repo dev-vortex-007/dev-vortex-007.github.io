@@ -16,9 +16,6 @@
   
 
 
-
----
-
 ## 🧠 About Me
 
 I'm a **tech enthusiast** with an insatiable curiosity for everything tech. I don't believe in limiting myself to one language, framework, or domain - if it's innovative and challenging, I'm diving deep into it.
@@ -32,7 +29,7 @@ I'm a **tech enthusiast** with an insatiable curiosity for everything tech. I do
 - 🚀 **Innovation First**: Building solutions that push boundaries
 - 🎨 **Art Meets Code**: Blending creativity with technical excellence
 
----
+
 
 ## 🛠️ Language and Tools
 
