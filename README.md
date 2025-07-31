@@ -80,34 +80,8 @@ I'm a **tech enthusiast** with an insatiable curiosity for everything tech. I do
 
 
 ## 📊 GitHub Analytics
-<style>
-    .github-cards {
-        display: flex;
-        flex-wrap: wrap;
-        gap: 8px;
-    }
-
-    .github-card {
-        height: 150px;
-        object-fit: contain;
-    }
-
-    @media (max-width: 782px) {
-        .github-card {
-            width: 100%;
-            height: auto;
-        }
-    }
-</style>
-
-<div class="github-cards">
-  <img class="github-card"
-       src="https://github-readme-stats.vercel.app/api?username=dev-vortex-007&theme=dark&hide_border=true&include_all_commits=false&count_private=true&custom_title=Github Stats&rank_icon=github&show_icons=true&include_all_commits=true&ring_color=0d74e7"
-       alt="GitHub Stats" />
-  <img class="github-card"
-       src="https://nirzak-streak-stats.vercel.app/?user=dev-vortex-007&theme=dark&hide_border=true"
-       alt="GitHub Streak" />
-  <img class="github-card"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vortex-007&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut"
-       alt="Top Languages" />
+<div>
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=dev-vortex-007&theme=dark&hide_border=true&include_all_commits=false&count_private=true&custom_title=Github Stats&rank_icon=github&show_icons=true&include_all_commits=true&ring_color=0d74e7" alt="GitHub Stats" />
+  <img height="200" src="https://nirzak-streak-stats.vercel.app/?user=dev-vortex-007&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-vortex-007&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=donut" alt="Top Languages" />
 </div>
